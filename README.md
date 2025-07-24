@@ -1,2 +1,2 @@
-# TTask-SA
+# TTask-SQL
 code-review task
