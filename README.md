@@ -1,2 +1,2 @@
 # TTask-SA
-code-review task for VTB
+code-review task
